@@ -32,13 +32,13 @@ Then apon tapping the text color generator button, the text will change to a ran
 At the bottom of the screen there is an additonal button labed canvas. This button will direct you to the second UI element, the canvas as the button name suggests, it is where you are able to trace your finger on the screen and draw what ever you want with in the given white space provided. See Figure 1.4 for the main view of this UI. 
 ![screenshot_20180919-154051](https://user-images.githubusercontent.com/33787330/45783904-faa42380-bc1b-11e8-88b4-a7f3f294b2c2.png)
 
-Now you are able to run your finger across the screen in the given white space and draw what you choose.Currently giving you the color black as default. See the Figure 1.5 for an example.
+Now you are able to run your finger across the screen in the given white space and draw what you choose. Currently giving you the color black as default. See the Figure 1.5 for an example.
 ![screenshot_20180919-154138](https://user-images.githubusercontent.com/33787330/45784058-64bcc880-bc1c-11e8-9dda-0388d64a7ec7.png)
 
 At the bottom you see three buttons, the first one labed clear canvas, will do as the name says, it will clear any drawing made and bring you to a blank screen just as you saw in Figure 1.4.
 
 The next button, labeled brush color will change the color you are painting with. Since you are currently using black as a default color if you hit the brush color button, the background of the button will change and the color it changes to is the new color you can draw with. It will also change the color of the drawing that is shown on the canvas if you haven't cleared it before hand. Allowing you to continue drawing and see everything in a different color of choice. See Figure 1.6.
-![screenshot_20180919-180257](https://user-images.githubusercontent.com/33787330/45784434-89fe0680-bc1d-11e8-92e1-b31453d5067e.png)
+![screenshot_20180919-180257](https://user-images.githubusercontent.com/33787330/45786986-d51d1700-bc27-11e8-87a8-2f0b9d6326dc.png)
 
 Next up is the save drawing button, this will take the canvas drawing that you created and save it as a PNG file. To show it works when you press the button a text display will appear for a short time to say whether or not the image was successfully saved. See Figure 1.7 for when the image is saved.
 ![screenshot_20180919-191114](https://user-images.githubusercontent.com/33787330/45786773-edd8fd00-bc26-11e8-890f-301e33d98cda.png)
