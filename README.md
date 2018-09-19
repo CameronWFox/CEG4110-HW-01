@@ -4,6 +4,8 @@ Project Name: # CEG4110-HW-01
 Student Name: Cameron Windsor Fox
 This is the first homework project assignment for my CEG 4110 class of my Senior Year at Wright State University.
 
+How I ran and tested the Android Application: I have only been able to run the application by using my own phone to test it. I could not get an emulator running at all on my computer no matter what I tried. 
+
 Purpose of Application:
 This application is composed of two parts; 
 
@@ -29,7 +31,7 @@ You Then Enter the Color or what ever text you choose into the text box. See in 
 Then apon tapping the text color generator button, the text will change to a random color while also display the rgb data followed by the hex code for the color that is generated. See the last figure of part 1. Figure 1.3
 ![screenshot_20180919-173914](https://user-images.githubusercontent.com/33787330/45783645-312d6e80-bc1b-11e8-881e-687790b25e43.png)
 
-At the bottom of the screen there is an additonal button labed canvas. This button will direct you to the second UI element, the canvas as the button name suggests, it is where you are able to trace your finger on the screen and draw what ever you want with in the given white space provided. See Figure 1.4 for the main view of this UI. 
+At the bottom of the screen there is an additonal button labed canvas. This button will direct you to the second UI element, the canvas as the button name suggests, it is where you are able to trace your finger on the screen and draw what ever you want with in the given white space provided. See Figure 1.4 for the main view of this UI.
 ![screenshot_20180919-154051](https://user-images.githubusercontent.com/33787330/45783904-faa42380-bc1b-11e8-88b4-a7f3f294b2c2.png)
 
 Now you are able to run your finger across the screen in the given white space and draw what you choose. Currently giving you the color black as default. See the Figure 1.5 for an example.
