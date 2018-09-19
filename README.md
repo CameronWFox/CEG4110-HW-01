@@ -47,4 +47,4 @@ Finally the last button shown at the top of the canvas screen, labed go back. Th
 
 Extras
 Now when the Image is not saved correctly Figure 1.8 will come up.
-![screenshot_20180919-180312](https://user-images.githubusercontent.com/33787330/45785587-c3387580-bc21-11e8-8353-a422ededf046.png)
+![screenshot_20180919-180312](https://user-images.githubusercontent.com/33787330/45787048-1f05fd00-bc28-11e8-940b-2efeaecc5e72.png)
