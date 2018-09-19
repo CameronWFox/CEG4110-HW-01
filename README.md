@@ -18,3 +18,7 @@ Including these two parts to the assignment you need to implement a way of navig
 For my build of the assignment here is my display and how to use the application.
 Phase 01:
 Figure 1.0 shows the application when you first start it up.
+![screenshot_20180919-153915](https://user-images.githubusercontent.com/33787330/45777538-e9065000-bc0a-11e8-98b1-78d73bfd4bf8.png)
+
+Then by tapping on the text view at the middle top of the screen the keyboard will come up and the text disapeares when you tap it, giving you the space to enter what text you want. This is showsn in Figure 1.1.
+![screenshot_20180919-153935](https://user-images.githubusercontent.com/33787330/45777629-35ea2680-bc0b-11e8-8f8a-bf76e9c4449e.png)
