@@ -9,6 +9,10 @@ How I ran and tested the Android Application: I have only been able to run the a
 Purpose of Application:
 This application is composed of two parts; 
 
+Special Deployment Instructions:
+There are no special deployment instructions to run this application. The only thing is that I could only run and text the project through my own phone. So I have the 
+full project zipped, unzip it and run it in android studio, everything should work as intended.
+
 Part 1, create a UI where you can input the name of a color or any text in a text box, then when you click a button it will randomly change the color of the text of whatever you just entered on the application.
 
 Part 2, you must create a second UI on this application that contains a canvas that will let you draw on the screen with your finger. In addition to painting in the canvas, you must also be abl eto do the following:
